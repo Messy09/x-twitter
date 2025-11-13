@@ -1,0 +1,41 @@
+[
+  {
+    "author": "Elon Musk",
+    "verified": true,
+    "avatar": "https://pbs.twimg.com/profile_images/.../elon_normal.jpg",
+    "content": "Excited about the latest launch 🚀",
+    "time": "11-10",
+    "media": "https://pbs.twimg.com/media/xyz123.jpg",
+    "quote": null,
+    "comments": 1523,
+    "reposts": 3489,
+    "mentions": 210,
+    "likes": 45213,
+    "link": "https://x.com/elonmusk/status/1234567890123456789",
+    "type": "tweet_w_media"
+  },
+  {
+    "author": "SpaceX",
+    "verified": true,
+    "avatar": "https://pbs.twimg.com/profile_images/.../spacex_normal.jpg",
+    "content": "Falcon 9’s first stage has landed on the Just Read the Instructions droneship",
+    "time": "11-09",
+    "media": "",
+    "quote": "Launching progress one step at a time.",
+    "comments": 421,
+    "reposts": 2109,
+    "mentions": 98,
+    "likes": 18902,
+    "link": "https://x.com/SpaceX/status/987654321098765432",
+    "type": "tweet_w_quote"
+  },
+  {
+    "username": "elonmusk",
+    "fullname": "Elon Musk",
+    "verified": true,
+    "avatar": "https://pbs.twimg.com/profile_images/.../elon_normal.jpg",
+    "content": "Most recent public tweet text snippet goes here...",
+    "url": "https://x.com/elonmusk",
+    "type": "username"
+  }
+]
