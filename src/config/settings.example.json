@@ -1,0 +1,10 @@
+{
+  "base_url": "https://example.com",
+  "request_timeout": 10,
+  "default_maximum": 100,
+  "headers": {
+    "User-Agent": "x-twitter-scraper/0.1",
+    "Accept": "application/json, text/plain;q=0.9,*/*;q=0.8"
+  },
+  "proxies": null
+}
